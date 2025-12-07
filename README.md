@@ -1,7 +1,3 @@
-Absolutely! Here’s a polished and professional **README** tailored to your intelligent expense tracker project. You can customize the project name and API details later.
-
----
-
 # 🧠 Intelligent Expense Tracker
 
 Smart AI-powered categorization for your spending habits
