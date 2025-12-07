@@ -14,8 +14,8 @@ public class AIService {
 
     private final WebClient webClient;
 
-    @Value("${chatgroq.api-key}")
-    private String apiKey;
+//    @Value("${chatgroq.api-key}")
+//    private String apiKey;
 
     public AIService(WebClient.Builder webClientBuilder){
         this.webClient = webClientBuilder
