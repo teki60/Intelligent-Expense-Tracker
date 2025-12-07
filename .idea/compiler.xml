@@ -7,6 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for Intelligent Expense Tracker" enabled="true">
+        <sourceOutputDir name="Intelligent Expense Tracker/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="Intelligent Expense Tracker/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="intelligent-Expense-Tracker" />
       </profile>
     </annotationProcessing>

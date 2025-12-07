@@ -1,0 +1,1 @@
+First commit of Intelligent Expense Tracker
