@@ -1,0 +1,10 @@
+package org.expensetracker.dto.AI;
+import lombok.*;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class Message {
+    private String role;
+    private String content;
+}
